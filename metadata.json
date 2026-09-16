@@ -1,0 +1,7 @@
+{
+  "name": "Brand Guest Optimizer",
+  "description": "「活動優化師｜AI 品牌來賓篩選工具」協助品牌優化活動、分析來賓需求與參與訊號，建立更符合品牌目的的邀請名單。",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
